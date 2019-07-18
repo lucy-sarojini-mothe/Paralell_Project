@@ -1,1 +1,1 @@
-# Paralell_Project
+# Parallel_Project
